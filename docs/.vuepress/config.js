@@ -14,7 +14,7 @@ module.exports = {
     themeConfig: {
         nav: require("./nav.js"),//导航栏
         sidebar:require("./sidebar.js"),//引入所有sidebar侧边栏
-        sidebarDepth: 2, //以二级菜单开始
+        // sidebarDepth: 2, //以二级菜单开始
         lastUpdated: 'Last Updated',
         searchMaxSuggestoins: 10,
         serviceWorker: {
